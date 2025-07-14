@@ -79,10 +79,14 @@ A microservice-based URL shortener with logging middleware, built with Go (backe
 
 ## App Screenshots
 
-> ![App Home](images/app-home.png)
-> ![Stats Example](images/app-stats.png)
-
-(Replace with your own screenshots after running the app)
+> **No screenshots are included by default.**
+>
+> To add your own, take screenshots of the running app and place them in a folder (e.g., `frontend/images/`).
+> Then update this section with:
+> ```
+> ![App Home](frontend/images/app-home.png)
+> ![Stats Example](frontend/images/app-stats.png)
+> ```
 
 ---
 
